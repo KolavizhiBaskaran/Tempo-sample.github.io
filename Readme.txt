@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Thanks for visiting this template!
 
-Template Name: Tempo
+Template Name:kayal
 Template URL: https://bootstrapmade.com/tempo-free-onepage-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Author: Kayalvizhi
+
